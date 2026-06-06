@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  background: #f4f7f5;
+  color: #17201d;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background:
+    linear-gradient(180deg, rgba(244, 247, 245, 0.8), rgba(244, 247, 245, 1)),
+    #f4f7f5;
+  color: #17201d;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+::selection {
+  background: #315b48;
+  color: white;
+}
+
+@layer components {
+  .input {
+    width: 100%;
+    border-radius: 0.375rem;
+    border: 1px solid rgba(0, 0, 0, 0.14);
+    background: white;
+    padding: 0.65rem 0.75rem;
+    color: #17201d;
+    outline: none;
+  }
+
+  .input:focus {
+    border-color: #315b48;
+    box-shadow: 0 0 0 3px rgba(49, 91, 72, 0.16);
+  }
+}

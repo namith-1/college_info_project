@@ -1,0 +1,6002 @@
+[
+  {
+    "name": "IIT Bombay",
+    "slug": "iit-bombay",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIT Bombay is a public engineering institution in Mumbai, Maharashtra. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.8,
+    "reviewCount": 117,
+    "feesMin": 510040,
+    "feesMax": 622000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 24.6,
+      "highestPackage": 103.5,
+      "placementRate": 98,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 622000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 572240,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.8,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_ADVANCED",
+        "examName": "JEE Advanced",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 500,
+        "maxRank": 9500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIT Delhi",
+    "slug": "iit-delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIT Delhi is a public engineering institution in New Delhi, Delhi. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.8,
+    "reviewCount": 154,
+    "feesMin": 528080,
+    "feesMax": 644000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 24.3,
+      "highestPackage": 102.1,
+      "placementRate": 98,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 644000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 592480,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.8,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_ADVANCED",
+        "examName": "JEE Advanced",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 1000,
+        "maxRank": 10000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIT Madras",
+    "slug": "iit-madras",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIT Madras is a public engineering institution in Chennai, Tamil Nadu. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.8,
+    "reviewCount": 191,
+    "feesMin": 546120,
+    "feesMax": 666000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 23.9,
+      "highestPackage": 100.6,
+      "placementRate": 97,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 666000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 612720,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.8,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_ADVANCED",
+        "examName": "JEE Advanced",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 1500,
+        "maxRank": 10500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIT Kanpur",
+    "slug": "iit-kanpur",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIT Kanpur is a public engineering institution in Kanpur, Uttar Pradesh. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.8,
+    "reviewCount": 228,
+    "feesMin": 564160,
+    "feesMax": 688000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 23.6,
+      "highestPackage": 99.1,
+      "placementRate": 97,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 688000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 632960,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.8,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_ADVANCED",
+        "examName": "JEE Advanced",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 2000,
+        "maxRank": 11000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIT Kharagpur",
+    "slug": "iit-kharagpur",
+    "city": "Kharagpur",
+    "state": "West Bengal",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIT Kharagpur is a public engineering institution in Kharagpur, West Bengal. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.8,
+    "reviewCount": 265,
+    "feesMin": 582200,
+    "feesMax": 710000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 23.3,
+      "highestPackage": 97.7,
+      "placementRate": 97,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 710000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 653200,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.8,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_ADVANCED",
+        "examName": "JEE Advanced",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 2500,
+        "maxRank": 11500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIT Roorkee",
+    "slug": "iit-roorkee",
+    "city": "Roorkee",
+    "state": "Uttarakhand",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIT Roorkee is a public engineering institution in Roorkee, Uttarakhand. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 302,
+    "feesMin": 600240,
+    "feesMax": 732000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 22.9,
+      "highestPackage": 96.2,
+      "placementRate": 96,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 732000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 673440,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_ADVANCED",
+        "examName": "JEE Advanced",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 3000,
+        "maxRank": 12000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIT Guwahati",
+    "slug": "iit-guwahati",
+    "city": "Guwahati",
+    "state": "Assam",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIT Guwahati is a public engineering institution in Guwahati, Assam. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 339,
+    "feesMin": 618280,
+    "feesMax": 754000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 22.6,
+      "highestPackage": 94.7,
+      "placementRate": 96,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 754000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 693680,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_ADVANCED",
+        "examName": "JEE Advanced",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 3500,
+        "maxRank": 12500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "BITS Pilani",
+    "slug": "bits-pilani",
+    "city": "Pilani",
+    "state": "Rajasthan",
+    "type": "ENGINEERING",
+    "ownership": "PRIVATE",
+    "overview": "BITS Pilani is a private engineering institution in Pilani, Rajasthan. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 376,
+    "feesMin": 1016800,
+    "feesMax": 1240000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 22.2,
+      "highestPackage": 93.2,
+      "placementRate": 96,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1240000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1140800,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 4000,
+        "maxRank": 13000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIT Hyderabad",
+    "slug": "iit-hyderabad",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIT Hyderabad is a public engineering institution in Hyderabad, Telangana. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 413,
+    "feesMin": 654360,
+    "feesMax": 798000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 21.9,
+      "highestPackage": 91.8,
+      "placementRate": 95,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 798000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 734160,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_ADVANCED",
+        "examName": "JEE Advanced",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 4500,
+        "maxRank": 13500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIT BHU Varanasi",
+    "slug": "iit-bhu-varanasi",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIT BHU Varanasi is a public engineering institution in Varanasi, Uttar Pradesh. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 450,
+    "feesMin": 672400,
+    "feesMax": 820000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 21.5,
+      "highestPackage": 90.3,
+      "placementRate": 95,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 820000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 754400,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_ADVANCED",
+        "examName": "JEE Advanced",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 5000,
+        "maxRank": 14000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "NIT Tiruchirappalli",
+    "slug": "nit-tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "NIT Tiruchirappalli is a public engineering institution in Tiruchirappalli, Tamil Nadu. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 487,
+    "feesMin": 690440,
+    "feesMax": 842000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 21.1,
+      "highestPackage": 88.8,
+      "placementRate": 95,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 842000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 774640,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 5500,
+        "maxRank": 14500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "NIT Surathkal",
+    "slug": "nit-surathkal",
+    "city": "Surathkal",
+    "state": "Karnataka",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "NIT Surathkal is a public engineering institution in Surathkal, Karnataka. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 524,
+    "feesMin": 708480,
+    "feesMax": 864000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 20.8,
+      "highestPackage": 64.5,
+      "placementRate": 94,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 864000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 794880,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 6000,
+        "maxRank": 15000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "NIT Warangal",
+    "slug": "nit-warangal",
+    "city": "Warangal",
+    "state": "Telangana",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "NIT Warangal is a public engineering institution in Warangal, Telangana. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 561,
+    "feesMin": 726520,
+    "feesMax": 886000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 20.4,
+      "highestPackage": 63.4,
+      "placementRate": 94,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 886000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 815120,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 6500,
+        "maxRank": 15500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIIT Bangalore",
+    "slug": "iiit-bangalore",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "ENGINEERING",
+    "ownership": "PRIVATE",
+    "overview": "IIIT Bangalore is a private engineering institution in Bangalore, Karnataka. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 598,
+    "feesMin": 1287400,
+    "feesMax": 1570000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 20.1,
+      "highestPackage": 62.3,
+      "placementRate": 94,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1570000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1444400,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 7000,
+        "maxRank": 16000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Delhi Technological University",
+    "slug": "delhi-technological-university",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "Delhi Technological University is a public engineering institution in New Delhi, Delhi. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 635,
+    "feesMin": 762600,
+    "feesMax": 930000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 19.8,
+      "highestPackage": 61.2,
+      "placementRate": 93,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 930000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 855600,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 7500,
+        "maxRank": 16500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "NSUT New Delhi",
+    "slug": "nsut-new-delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "NSUT New Delhi is a public engineering institution in New Delhi, Delhi. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 672,
+    "feesMin": 780640,
+    "feesMax": 952000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 19.4,
+      "highestPackage": 60.1,
+      "placementRate": 93,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 952000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 875840,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 8000,
+        "maxRank": 17000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "RV College of Engineering",
+    "slug": "rv-college-of-engineering",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "ENGINEERING",
+    "ownership": "PRIVATE",
+    "overview": "RV College of Engineering is a private engineering institution in Bangalore, Karnataka. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 709,
+    "feesMin": 1422700,
+    "feesMax": 1735000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 19.1,
+      "highestPackage": 59.1,
+      "placementRate": 93,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1735000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1596200,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 8500,
+        "maxRank": 17500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "VIT Vellore",
+    "slug": "vit-vellore",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "type": "ENGINEERING",
+    "ownership": "PRIVATE",
+    "overview": "VIT Vellore is a private engineering institution in Vellore, Tamil Nadu. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 746,
+    "feesMin": 1467800,
+    "feesMax": 1790000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 18.7,
+      "highestPackage": 58,
+      "placementRate": 92,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1790000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1646800,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 9000,
+        "maxRank": 18000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Manipal Institute of Technology",
+    "slug": "manipal-institute-of-technology",
+    "city": "Manipal",
+    "state": "Karnataka",
+    "type": "ENGINEERING",
+    "ownership": "PRIVATE",
+    "overview": "Manipal Institute of Technology is a private engineering institution in Manipal, Karnataka. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 783,
+    "feesMin": 1512900,
+    "feesMax": 1845000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 18.4,
+      "highestPackage": 56.9,
+      "placementRate": 92,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1845000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1697400,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 9500,
+        "maxRank": 18500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "SRM Institute of Science and Technology",
+    "slug": "srm-institute-of-science-and-technology",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "ENGINEERING",
+    "ownership": "DEEMED",
+    "overview": "SRM Institute of Science and Technology is a deemed engineering institution in Chennai, Tamil Nadu. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 820,
+    "feesMin": 1558000,
+    "feesMax": 1900000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 18,
+      "highestPackage": 55.8,
+      "placementRate": 91,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1900000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1748000,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 10000,
+        "maxRank": 19000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Amity University",
+    "slug": "amity-university",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "type": "ENGINEERING",
+    "ownership": "PRIVATE",
+    "overview": "Amity University is a private engineering institution in Noida, Uttar Pradesh. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 857,
+    "feesMin": 1603100,
+    "feesMax": 1955000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 17.6,
+      "highestPackage": 54.7,
+      "placementRate": 91,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1955000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1798600,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 10500,
+        "maxRank": 19500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Jain University",
+    "slug": "jain-university",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "ENGINEERING",
+    "ownership": "DEEMED",
+    "overview": "Jain University is a deemed engineering institution in Bangalore, Karnataka. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 894,
+    "feesMin": 1648200,
+    "feesMax": 2010000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 17.3,
+      "highestPackage": 53.6,
+      "placementRate": 91,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 2010000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1849200,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 11000,
+        "maxRank": 20000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "New Horizon College of Engineering",
+    "slug": "new-horizon-college-of-engineering",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "ENGINEERING",
+    "ownership": "PRIVATE",
+    "overview": "New Horizon College of Engineering is a private engineering institution in Bangalore, Karnataka. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 931,
+    "feesMin": 1693300,
+    "feesMax": 2065000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 17,
+      "highestPackage": 52.5,
+      "placementRate": 90,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 2065000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1899800,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 11500,
+        "maxRank": 20500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Tolani Maritime Institute",
+    "slug": "tolani-maritime-institute",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "ENGINEERING",
+    "ownership": "PRIVATE",
+    "overview": "Tolani Maritime Institute is a private engineering institution in Pune, Maharashtra. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 968,
+    "feesMin": 1738400,
+    "feesMax": 2120000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 16.6,
+      "highestPackage": 51.5,
+      "placementRate": 90,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 2120000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1950400,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 12000,
+        "maxRank": 21000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Yenepoya University",
+    "slug": "yenepoya-university",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "type": "ENGINEERING",
+    "ownership": "DEEMED",
+    "overview": "Yenepoya University is a deemed engineering institution in Mangalore, Karnataka. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1005,
+    "feesMin": 1783500,
+    "feesMax": 2175000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 16.3,
+      "highestPackage": 50.4,
+      "placementRate": 90,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 2175000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 2001000,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 12500,
+        "maxRank": 21500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIT Mandi",
+    "slug": "iit-mandi",
+    "city": "Mandi",
+    "state": "Himachal Pradesh",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIT Mandi is a public engineering institution in Mandi, Himachal Pradesh. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1042,
+    "feesMin": 961040,
+    "feesMax": 1172000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 15.9,
+      "highestPackage": 49.3,
+      "placementRate": 89,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1172000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1078240,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_ADVANCED",
+        "examName": "JEE Advanced",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 13000,
+        "maxRank": 22000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIT Jodhpur",
+    "slug": "iit-jodhpur",
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIT Jodhpur is a public engineering institution in Jodhpur, Rajasthan. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1079,
+    "feesMin": 979080,
+    "feesMax": 1194000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 15.6,
+      "highestPackage": 48.2,
+      "placementRate": 89,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1194000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1098480,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_ADVANCED",
+        "examName": "JEE Advanced",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 13500,
+        "maxRank": 22500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIT Bhubaneswar",
+    "slug": "iit-bhubaneswar",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIT Bhubaneswar is a public engineering institution in Bhubaneswar, Odisha. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1116,
+    "feesMin": 997120,
+    "feesMax": 1216000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 15.2,
+      "highestPackage": 47.1,
+      "placementRate": 89,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1216000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1118720,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_ADVANCED",
+        "examName": "JEE Advanced",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 14000,
+        "maxRank": 23000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIT Patna",
+    "slug": "iit-patna",
+    "city": "Patna",
+    "state": "Bihar",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIT Patna is a public engineering institution in Patna, Bihar. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1153,
+    "feesMin": 1015160,
+    "feesMax": 1238000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 14.9,
+      "highestPackage": 46,
+      "placementRate": 88,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1238000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1138960,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_ADVANCED",
+        "examName": "JEE Advanced",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 14500,
+        "maxRank": 23500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIT Gandhinagar",
+    "slug": "iit-gandhinagar",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIT Gandhinagar is a public engineering institution in Gandhinagar, Gujarat. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1190,
+    "feesMin": 1033200,
+    "feesMax": 1260000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 14.5,
+      "highestPackage": 45,
+      "placementRate": 88,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1260000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1159200,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_ADVANCED",
+        "examName": "JEE Advanced",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 15000,
+        "maxRank": 24000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIT Indore",
+    "slug": "iit-indore",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIT Indore is a public engineering institution in Indore, Madhya Pradesh. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1227,
+    "feesMin": 1051240,
+    "feesMax": 1282000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 14.2,
+      "highestPackage": 43.9,
+      "placementRate": 88,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1282000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1179440,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_ADVANCED",
+        "examName": "JEE Advanced",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 15500,
+        "maxRank": 24500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIIT Allahabad",
+    "slug": "iiit-allahabad",
+    "city": "Prayagraj",
+    "state": "Uttar Pradesh",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "IIIT Allahabad is a public engineering institution in Prayagraj, Uttar Pradesh. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1264,
+    "feesMin": 1069280,
+    "feesMax": 1304000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 13.8,
+      "highestPackage": 42.8,
+      "placementRate": 87,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1304000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1199680,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 16000,
+        "maxRank": 25000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Thapar Institute of Engineering and Technology",
+    "slug": "thapar-institute-of-engineering-and-technology",
+    "city": "Patiala",
+    "state": "Punjab",
+    "type": "ENGINEERING",
+    "ownership": "PRIVATE",
+    "overview": "Thapar Institute of Engineering and Technology is a private engineering institution in Patiala, Punjab. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.4,
+    "reviewCount": 1301,
+    "feesMin": 2144300,
+    "feesMax": 2615000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 13.5,
+      "highestPackage": 41.7,
+      "placementRate": 87,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 2615000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 2405800,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.4,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 16500,
+        "maxRank": 25500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "College of Engineering Pune",
+    "slug": "college-of-engineering-pune",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "College of Engineering Pune is a public engineering institution in Pune, Maharashtra. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1338,
+    "feesMin": 1105360,
+    "feesMax": 1348000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 13.1,
+      "highestPackage": 40.6,
+      "placementRate": 87,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1348000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1240160,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 17000,
+        "maxRank": 26000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Jadavpur University",
+    "slug": "jadavpur-university",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "Jadavpur University is a public engineering institution in Kolkata, West Bengal. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1375,
+    "feesMin": 1123400,
+    "feesMax": 1370000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 12.8,
+      "highestPackage": 39.5,
+      "placementRate": 86,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1370000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1260400,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 17500,
+        "maxRank": 26500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Anna University",
+    "slug": "anna-university",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "Anna University is a public engineering institution in Chennai, Tamil Nadu. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.4,
+    "reviewCount": 1412,
+    "feesMin": 1141440,
+    "feesMax": 1392000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 12.4,
+      "highestPackage": 38.4,
+      "placementRate": 86,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1392000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1280640,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.4,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 18000,
+        "maxRank": 27000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "PSG College of Technology",
+    "slug": "psg-college-of-technology",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "type": "ENGINEERING",
+    "ownership": "PRIVATE",
+    "overview": "PSG College of Technology is a private engineering institution in Coimbatore, Tamil Nadu. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.4,
+    "reviewCount": 1449,
+    "feesMin": 2324700,
+    "feesMax": 2835000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 12.1,
+      "highestPackage": 37.4,
+      "placementRate": 86,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 2835000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 2608200,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.4,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 18500,
+        "maxRank": 27500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Sardar Vallabhbhai National Institute of Technology",
+    "slug": "sardar-vallabhbhai-national-institute-of-technology",
+    "city": "Surat",
+    "state": "Gujarat",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "Sardar Vallabhbhai National Institute of Technology is a public engineering institution in Surat, Gujarat. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.4,
+    "reviewCount": 1486,
+    "feesMin": 1177520,
+    "feesMax": 1436000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 11.7,
+      "highestPackage": 36.3,
+      "placementRate": 85,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1436000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1321120,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.4,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 19000,
+        "maxRank": 28000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Motilal Nehru National Institute of Technology",
+    "slug": "motilal-nehru-national-institute-of-technology",
+    "city": "Prayagraj",
+    "state": "Uttar Pradesh",
+    "type": "ENGINEERING",
+    "ownership": "PUBLIC",
+    "overview": "Motilal Nehru National Institute of Technology is a public engineering institution in Prayagraj, Uttar Pradesh. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.4,
+    "reviewCount": 1523,
+    "feesMin": 1195560,
+    "feesMax": 1458000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 11.4,
+      "highestPackage": 35.2,
+      "placementRate": 85,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1458000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 1341360,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.4,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 19500,
+        "maxRank": 28500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Birla Institute of Technology Mesra",
+    "slug": "birla-institute-of-technology-mesra",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "type": "ENGINEERING",
+    "ownership": "PRIVATE",
+    "overview": "Birla Institute of Technology Mesra is a private engineering institution in Ranchi, Jharkhand. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.3,
+    "reviewCount": 1560,
+    "feesMin": 2460000,
+    "feesMax": 3000000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/engineering-colleges",
+    "placement": {
+      "averagePackage": 11,
+      "highestPackage": 34.1,
+      "placementRate": 84,
+      "topRecruiters": [
+        "Google",
+        "Microsoft",
+        "TCS",
+        "Infosys"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Computer Science and Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 3000000,
+        "seats": 120
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "degree": "B.Tech",
+        "duration": "4 years",
+        "fees": 2760000,
+        "seats": 84
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.3,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "JEE_MAIN",
+        "examName": "JEE Main",
+        "courseName": "Computer Science and Engineering",
+        "minRank": 20000,
+        "maxRank": 29000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIM Ahmedabad",
+    "slug": "iim-ahmedabad",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "type": "MANAGEMENT",
+    "ownership": "PUBLIC",
+    "overview": "IIM Ahmedabad is a public management institution in Ahmedabad, Gujarat. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.8,
+    "reviewCount": 117,
+    "feesMin": 233700,
+    "feesMax": 285000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 34.5,
+      "highestPackage": 110.5,
+      "placementRate": 98,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 285000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 262200,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.8,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 350,
+        "maxRank": 6350,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIM Bangalore",
+    "slug": "iim-bangalore",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "MANAGEMENT",
+    "ownership": "PUBLIC",
+    "overview": "IIM Bangalore is a public management institution in Bangalore, Karnataka. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.8,
+    "reviewCount": 154,
+    "feesMin": 303400,
+    "feesMax": 370000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 34,
+      "highestPackage": 108.9,
+      "placementRate": 98,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 370000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 340400,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.8,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 700,
+        "maxRank": 6700,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIM Calcutta",
+    "slug": "iim-calcutta",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "type": "MANAGEMENT",
+    "ownership": "PUBLIC",
+    "overview": "IIM Calcutta is a public management institution in Kolkata, West Bengal. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.8,
+    "reviewCount": 191,
+    "feesMin": 373100,
+    "feesMax": 455000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 33.6,
+      "highestPackage": 107.4,
+      "placementRate": 97,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 455000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 418600,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.8,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 1050,
+        "maxRank": 7050,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Indian School of Business",
+    "slug": "indian-school-of-business",
+    "city": "Mohali",
+    "state": "Punjab",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "Indian School of Business is a private management institution in Mohali, Punjab. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 228,
+    "feesMin": 721600,
+    "feesMax": 880000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 33.1,
+      "highestPackage": 105.9,
+      "placementRate": 97,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 880000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 809600,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 1400,
+        "maxRank": 7400,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIM Lucknow",
+    "slug": "iim-lucknow",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "type": "MANAGEMENT",
+    "ownership": "PUBLIC",
+    "overview": "IIM Lucknow is a public management institution in Lucknow, Uttar Pradesh. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.8,
+    "reviewCount": 265,
+    "feesMin": 512500,
+    "feesMax": 625000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 32.6,
+      "highestPackage": 104.3,
+      "placementRate": 97,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 625000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 575000,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.8,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 1750,
+        "maxRank": 7750,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIM Kozhikode",
+    "slug": "iim-kozhikode",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "type": "MANAGEMENT",
+    "ownership": "PUBLIC",
+    "overview": "IIM Kozhikode is a public management institution in Kozhikode, Kerala. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 302,
+    "feesMin": 582200,
+    "feesMax": 710000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 32.1,
+      "highestPackage": 102.8,
+      "placementRate": 96,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 710000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 653200,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 2100,
+        "maxRank": 8100,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "SPJIMR Mumbai",
+    "slug": "spjimr-mumbai",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "SPJIMR Mumbai is a private management institution in Mumbai, Maharashtra. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 339,
+    "feesMin": 893800,
+    "feesMax": 1090000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 31.6,
+      "highestPackage": 101.2,
+      "placementRate": 96,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1090000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1002800,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 2450,
+        "maxRank": 8450,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIM Mumbai",
+    "slug": "iim-mumbai",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "MANAGEMENT",
+    "ownership": "PUBLIC",
+    "overview": "IIM Mumbai is a public management institution in Mumbai, Maharashtra. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 376,
+    "feesMin": 721600,
+    "feesMax": 880000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 31.2,
+      "highestPackage": 99.7,
+      "placementRate": 96,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 880000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 809600,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 2800,
+        "maxRank": 8800,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "TISS Mumbai",
+    "slug": "tiss-mumbai",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "MANAGEMENT",
+    "ownership": "PUBLIC",
+    "overview": "TISS Mumbai is a public management institution in Mumbai, Maharashtra. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 413,
+    "feesMin": 791300,
+    "feesMax": 965000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 30.7,
+      "highestPackage": 98.2,
+      "placementRate": 95,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 965000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 887800,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 3150,
+        "maxRank": 9150,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIM Indore",
+    "slug": "iim-indore",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "type": "MANAGEMENT",
+    "ownership": "PUBLIC",
+    "overview": "IIM Indore is a public management institution in Indore, Madhya Pradesh. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 450,
+    "feesMin": 861000,
+    "feesMax": 1050000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 30.2,
+      "highestPackage": 96.6,
+      "placementRate": 95,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1050000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 966000,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 3500,
+        "maxRank": 9500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "MDI Gurgaon",
+    "slug": "mdi-gurgaon",
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "MDI Gurgaon is a private management institution in Gurgaon, Haryana. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 487,
+    "feesMin": 1123400,
+    "feesMax": 1370000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 29.7,
+      "highestPackage": 95.1,
+      "placementRate": 95,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1370000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1260400,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 3850,
+        "maxRank": 9850,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IIFT Delhi",
+    "slug": "iift-delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "MANAGEMENT",
+    "ownership": "PUBLIC",
+    "overview": "IIFT Delhi is a public management institution in New Delhi, Delhi. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 524,
+    "feesMin": 1000400,
+    "feesMax": 1220000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 29.2,
+      "highestPackage": 93.6,
+      "placementRate": 94,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1220000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1122400,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 4200,
+        "maxRank": 10200,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "JBIMS Mumbai",
+    "slug": "jbims-mumbai",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "MANAGEMENT",
+    "ownership": "PUBLIC",
+    "overview": "JBIMS Mumbai is a public management institution in Mumbai, Maharashtra. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 561,
+    "feesMin": 1070100,
+    "feesMax": 1305000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 28.8,
+      "highestPackage": 92,
+      "placementRate": 94,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1305000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1200600,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 4550,
+        "maxRank": 10550,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "NMIMS Mumbai",
+    "slug": "nmims-mumbai",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "MANAGEMENT",
+    "ownership": "DEEMED",
+    "overview": "NMIMS Mumbai is a deemed management institution in Mumbai, Maharashtra. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 598,
+    "feesMin": 1295600,
+    "feesMax": 1580000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 28.3,
+      "highestPackage": 90.5,
+      "placementRate": 94,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1580000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1453600,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 4900,
+        "maxRank": 10900,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "FMS Delhi",
+    "slug": "fms-delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "MANAGEMENT",
+    "ownership": "PUBLIC",
+    "overview": "FMS Delhi is a public management institution in New Delhi, Delhi. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 635,
+    "feesMin": 1209500,
+    "feesMax": 1475000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 27.8,
+      "highestPackage": 89,
+      "placementRate": 93,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1475000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1357000,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 5250,
+        "maxRank": 11250,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "XLRI Jamshedpur",
+    "slug": "xlri-jamshedpur",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "XLRI Jamshedpur is a private management institution in Jamshedpur, Jharkhand. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 672,
+    "feesMin": 1410400,
+    "feesMax": 1720000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 27.3,
+      "highestPackage": 65.6,
+      "placementRate": 93,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1720000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1582400,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 5600,
+        "maxRank": 11600,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "SDA Bocconi Asia Center",
+    "slug": "sda-bocconi-asia-center",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "SDA Bocconi Asia Center is a private management institution in Mumbai, Maharashtra. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 709,
+    "feesMin": 1467800,
+    "feesMax": 1790000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 26.8,
+      "highestPackage": 64.4,
+      "placementRate": 93,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1790000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1646800,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 5950,
+        "maxRank": 11950,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Woxsen University",
+    "slug": "woxsen-university",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "Woxsen University is a private management institution in Hyderabad, Telangana. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 746,
+    "feesMin": 1525200,
+    "feesMax": 1860000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 26.4,
+      "highestPackage": 63.3,
+      "placementRate": 92,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1860000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1711200,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 6300,
+        "maxRank": 12300,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "GIBS Business School",
+    "slug": "gibs-business-school",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "GIBS Business School is a private management institution in Bangalore, Karnataka. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 783,
+    "feesMin": 1582600,
+    "feesMax": 1930000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 25.9,
+      "highestPackage": 62.1,
+      "placementRate": 92,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1930000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1775600,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 6650,
+        "maxRank": 12650,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "NSB Bangalore",
+    "slug": "nsb-bangalore",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "NSB Bangalore is a private management institution in Bangalore, Karnataka. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 820,
+    "feesMin": 1640000,
+    "feesMax": 2000000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 25.4,
+      "highestPackage": 61,
+      "placementRate": 91,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2000000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1840000,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 7000,
+        "maxRank": 13000,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Parul University",
+    "slug": "parul-university",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "Parul University is a private management institution in Vadodara, Gujarat. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 857,
+    "feesMin": 1697400,
+    "feesMax": 2070000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 24.9,
+      "highestPackage": 59.8,
+      "placementRate": 91,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2070000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1904400,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 7350,
+        "maxRank": 13350,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "New Horizon College of Engineering MBA",
+    "slug": "new-horizon-college-of-engineering-mba",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "New Horizon College of Engineering MBA is a private management institution in Bangalore, Karnataka. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 894,
+    "feesMin": 1754800,
+    "feesMax": 2140000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 24.4,
+      "highestPackage": 58.7,
+      "placementRate": 91,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2140000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1968800,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 7700,
+        "maxRank": 13700,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Jamia Millia Islamia",
+    "slug": "jamia-millia-islamia",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "MANAGEMENT",
+    "ownership": "PUBLIC",
+    "overview": "Jamia Millia Islamia is a public management institution in New Delhi, Delhi. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 931,
+    "feesMin": 1767100,
+    "feesMax": 2155000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 24,
+      "highestPackage": 57.5,
+      "placementRate": 90,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2155000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 1982600,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 8050,
+        "maxRank": 14050,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Lovely Professional University",
+    "slug": "lovely-professional-university",
+    "city": "Jalandhar",
+    "state": "Punjab",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "Lovely Professional University is a private management institution in Jalandhar, Punjab. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 968,
+    "feesMin": 1869600,
+    "feesMax": 2280000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 23.5,
+      "highestPackage": 56.4,
+      "placementRate": 90,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2280000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2097600,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 8400,
+        "maxRank": 14400,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Chitkara University",
+    "slug": "chitkara-university",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "Chitkara University is a private management institution in Chandigarh, Chandigarh. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1005,
+    "feesMin": 1927000,
+    "feesMax": 2350000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 23,
+      "highestPackage": 55.2,
+      "placementRate": 90,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2350000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2162000,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 8750,
+        "maxRank": 14750,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Taxila Business School",
+    "slug": "taxila-business-school",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "Taxila Business School is a private management institution in Jaipur, Rajasthan. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1042,
+    "feesMin": 1984400,
+    "feesMax": 2420000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 22.5,
+      "highestPackage": 54,
+      "placementRate": 89,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2420000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2226400,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 9100,
+        "maxRank": 15100,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Great Lakes Institute of Management",
+    "slug": "great-lakes-institute-of-management",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "Great Lakes Institute of Management is a private management institution in Chennai, Tamil Nadu. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1079,
+    "feesMin": 2041800,
+    "feesMax": 2490000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 22,
+      "highestPackage": 52.9,
+      "placementRate": 89,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2490000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2290800,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 9450,
+        "maxRank": 15450,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "IMT Ghaziabad",
+    "slug": "imt-ghaziabad",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "IMT Ghaziabad is a private management institution in Ghaziabad, Uttar Pradesh. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1116,
+    "feesMin": 2099200,
+    "feesMax": 2560000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 21.6,
+      "highestPackage": 51.7,
+      "placementRate": 89,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2560000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2355200,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 9800,
+        "maxRank": 15800,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "XIM University",
+    "slug": "xim-university",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "XIM University is a private management institution in Bhubaneswar, Odisha. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1153,
+    "feesMin": 2156600,
+    "feesMax": 2630000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 21.1,
+      "highestPackage": 50.6,
+      "placementRate": 88,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2630000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2419600,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 10150,
+        "maxRank": 16150,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "SIBM Pune",
+    "slug": "sibm-pune",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "MANAGEMENT",
+    "ownership": "DEEMED",
+    "overview": "SIBM Pune is a deemed management institution in Pune, Maharashtra. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1190,
+    "feesMin": 2214000,
+    "feesMax": 2700000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 20.6,
+      "highestPackage": 49.4,
+      "placementRate": 88,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2700000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2484000,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 10500,
+        "maxRank": 16500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "TAPMI Manipal",
+    "slug": "tapmi-manipal",
+    "city": "Manipal",
+    "state": "Karnataka",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "TAPMI Manipal is a private management institution in Manipal, Karnataka. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.4,
+    "reviewCount": 1227,
+    "feesMin": 2271400,
+    "feesMax": 2770000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 20.1,
+      "highestPackage": 48.3,
+      "placementRate": 88,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2770000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2548400,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.4,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 10850,
+        "maxRank": 16850,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "FORE School of Management",
+    "slug": "fore-school-of-management",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "FORE School of Management is a private management institution in New Delhi, Delhi. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.4,
+    "reviewCount": 1264,
+    "feesMin": 2328800,
+    "feesMax": 2840000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 19.6,
+      "highestPackage": 47.1,
+      "placementRate": 87,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2840000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2612800,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.4,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 11200,
+        "maxRank": 17200,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "K J Somaiya Institute of Management",
+    "slug": "k-j-somaiya-institute-of-management",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "K J Somaiya Institute of Management is a private management institution in Mumbai, Maharashtra. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.4,
+    "reviewCount": 1301,
+    "feesMin": 2386200,
+    "feesMax": 2910000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 19.2,
+      "highestPackage": 46,
+      "placementRate": 87,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2910000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2677200,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.4,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 11550,
+        "maxRank": 17550,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "BIMTECH Greater Noida",
+    "slug": "bimtech-greater-noida",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "type": "MANAGEMENT",
+    "ownership": "PRIVATE",
+    "overview": "BIMTECH Greater Noida is a private management institution in Greater Noida, Uttar Pradesh. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.4,
+    "reviewCount": 1338,
+    "feesMin": 2443600,
+    "feesMax": 2980000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 18.7,
+      "highestPackage": 44.8,
+      "placementRate": 87,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2980000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2741600,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.4,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 11900,
+        "maxRank": 17900,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Christ University",
+    "slug": "christ-university",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "MANAGEMENT",
+    "ownership": "DEEMED",
+    "overview": "Christ University is a deemed management institution in Bangalore, Karnataka. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.4,
+    "reviewCount": 1375,
+    "feesMin": 2501000,
+    "feesMax": 3050000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/top-mba-colleges-in-india",
+    "placement": {
+      "averagePackage": 18.2,
+      "highestPackage": 43.7,
+      "placementRate": 86,
+      "topRecruiters": [
+        "BCG",
+        "Deloitte",
+        "HDFC Bank",
+        "Amazon"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Master of Business Administration",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 3050000,
+        "seats": 180
+      },
+      {
+        "name": "Business Analytics",
+        "degree": "MBA",
+        "duration": "2 years",
+        "fees": 2806000,
+        "seats": 126
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.4,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "CAT",
+        "examName": "CAT",
+        "courseName": "Master of Business Administration",
+        "minRank": 12250,
+        "maxRank": 18250,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "AIIMS New Delhi",
+    "slug": "aiims-new-delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "AIIMS New Delhi is a public medical institution in New Delhi, Delhi. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.8,
+    "reviewCount": 117,
+    "feesMin": 10660,
+    "feesMax": 13000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 13.8,
+      "highestPackage": 30.4,
+      "placementRate": 98,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 13000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 11960,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.8,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 60,
+        "maxRank": 1260,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "VMMC New Delhi",
+    "slug": "vmmc-new-delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "VMMC New Delhi is a public medical institution in New Delhi, Delhi. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.8,
+    "reviewCount": 154,
+    "feesMin": 17220,
+    "feesMax": 21000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 13.6,
+      "highestPackage": 30,
+      "placementRate": 98,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 21000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 19320,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.8,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 120,
+        "maxRank": 1320,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "CMC Vellore",
+    "slug": "cmc-vellore",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "type": "MEDICAL",
+    "ownership": "PRIVATE",
+    "overview": "CMC Vellore is a private medical institution in Vellore, Tamil Nadu. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 191,
+    "feesMin": 496100,
+    "feesMax": 605000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 13.5,
+      "highestPackage": 29.6,
+      "placementRate": 97,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 605000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 556600,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 180,
+        "maxRank": 1380,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "MAMC New Delhi",
+    "slug": "mamc-new-delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "MAMC New Delhi is a public medical institution in New Delhi, Delhi. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.8,
+    "reviewCount": 228,
+    "feesMin": 30340,
+    "feesMax": 37000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 13.3,
+      "highestPackage": 29.2,
+      "placementRate": 97,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 37000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 34040,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.8,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 240,
+        "maxRank": 1440,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "ABVIMS New Delhi",
+    "slug": "abvims-new-delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "ABVIMS New Delhi is a public medical institution in New Delhi, Delhi. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.8,
+    "reviewCount": 265,
+    "feesMin": 36900,
+    "feesMax": 45000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 13.1,
+      "highestPackage": 28.8,
+      "placementRate": 97,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 45000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 41400,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.8,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 300,
+        "maxRank": 1500,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "JIPMER Puducherry",
+    "slug": "jipmer-puducherry",
+    "city": "Puducherry",
+    "state": "Puducherry",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "JIPMER Puducherry is a public medical institution in Puducherry, Puducherry. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 302,
+    "feesMin": 43460,
+    "feesMax": 53000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 12.9,
+      "highestPackage": 28.4,
+      "placementRate": 96,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 53000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 48760,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 360,
+        "maxRank": 1560,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "AIIMS Jodhpur",
+    "slug": "aiims-jodhpur",
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "AIIMS Jodhpur is a public medical institution in Jodhpur, Rajasthan. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 339,
+    "feesMin": 50020,
+    "feesMax": 61000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 12.7,
+      "highestPackage": 28,
+      "placementRate": 96,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 61000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 56120,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 420,
+        "maxRank": 1620,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "UCMS New Delhi",
+    "slug": "ucms-new-delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "UCMS New Delhi is a public medical institution in New Delhi, Delhi. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 376,
+    "feesMin": 56580,
+    "feesMax": 69000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 12.6,
+      "highestPackage": 27.6,
+      "placementRate": 96,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 69000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 63480,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 480,
+        "maxRank": 1680,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "AIIMS Bhopal",
+    "slug": "aiims-bhopal",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "AIIMS Bhopal is a public medical institution in Bhopal, Madhya Pradesh. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 413,
+    "feesMin": 63140,
+    "feesMax": 77000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 12.4,
+      "highestPackage": 27.2,
+      "placementRate": 95,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 77000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 70840,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 540,
+        "maxRank": 1740,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "AIIMS Bhubaneswar",
+    "slug": "aiims-bhubaneswar",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "AIIMS Bhubaneswar is a public medical institution in Bhubaneswar, Odisha. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 450,
+    "feesMin": 69700,
+    "feesMax": 85000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 12.2,
+      "highestPackage": 26.8,
+      "placementRate": 95,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 85000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 78200,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 600,
+        "maxRank": 1800,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "BJMC Ahmedabad",
+    "slug": "bjmc-ahmedabad",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "BJMC Ahmedabad is a public medical institution in Ahmedabad, Gujarat. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 487,
+    "feesMin": 76260,
+    "feesMax": 93000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 12,
+      "highestPackage": 26.4,
+      "placementRate": 95,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 93000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 85560,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 660,
+        "maxRank": 1860,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "AIIMS Rishikesh",
+    "slug": "aiims-rishikesh",
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "AIIMS Rishikesh is a public medical institution in Rishikesh, Uttarakhand. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 524,
+    "feesMin": 82820,
+    "feesMax": 101000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 11.8,
+      "highestPackage": 26,
+      "placementRate": 94,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 101000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 92920,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 720,
+        "maxRank": 1920,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "DPU Pune",
+    "slug": "dpu-pune",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "MEDICAL",
+    "ownership": "DEEMED",
+    "overview": "DPU Pune is a deemed medical institution in Pune, Maharashtra. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 561,
+    "feesMin": 1603100,
+    "feesMax": 1955000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 11.7,
+      "highestPackage": 25.7,
+      "placementRate": 94,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 1955000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 1798600,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 780,
+        "maxRank": 1980,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "GMCH Chandigarh",
+    "slug": "gmch-chandigarh",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "GMCH Chandigarh is a public medical institution in Chandigarh, Chandigarh. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.7,
+    "reviewCount": 598,
+    "feesMin": 95940,
+    "feesMax": 117000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 11.5,
+      "highestPackage": 25.3,
+      "placementRate": 94,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 117000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 107640,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.7,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 840,
+        "maxRank": 2040,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "SIMATS Chennai",
+    "slug": "simats-chennai",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "MEDICAL",
+    "ownership": "DEEMED",
+    "overview": "SIMATS Chennai is a deemed medical institution in Chennai, Tamil Nadu. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 635,
+    "feesMin": 1824500,
+    "feesMax": 2225000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 11.3,
+      "highestPackage": 24.9,
+      "placementRate": 93,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 2225000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 2047000,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 900,
+        "maxRank": 2100,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "LHMC New Delhi",
+    "slug": "lhmc-new-delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "LHMC New Delhi is a public medical institution in New Delhi, Delhi. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 672,
+    "feesMin": 109060,
+    "feesMax": 133000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 11.1,
+      "highestPackage": 24.5,
+      "placementRate": 93,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 133000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 122360,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 960,
+        "maxRank": 2160,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "GMC Kozhikode",
+    "slug": "gmc-kozhikode",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "GMC Kozhikode is a public medical institution in Kozhikode, Kerala. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 709,
+    "feesMin": 115620,
+    "feesMax": 141000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 10.9,
+      "highestPackage": 24.1,
+      "placementRate": 93,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 141000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 129720,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 1020,
+        "maxRank": 2220,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "MMC Chennai",
+    "slug": "mmc-chennai",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "MMC Chennai is a public medical institution in Chennai, Tamil Nadu. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 746,
+    "feesMin": 122180,
+    "feesMax": 149000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 10.8,
+      "highestPackage": 23.7,
+      "placementRate": 92,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 149000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 137080,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 1080,
+        "maxRank": 2280,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "CMC Ludhiana",
+    "slug": "cmc-ludhiana",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "type": "MEDICAL",
+    "ownership": "PRIVATE",
+    "overview": "CMC Ludhiana is a private medical institution in Ludhiana, Punjab. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 783,
+    "feesMin": 2267300,
+    "feesMax": 2765000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 10.6,
+      "highestPackage": 23.3,
+      "placementRate": 92,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 2765000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 2543800,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 1140,
+        "maxRank": 2340,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "PGIMER Chandigarh",
+    "slug": "pgimer-chandigarh",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "PGIMER Chandigarh is a public medical institution in Chandigarh, Chandigarh. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 820,
+    "feesMin": 135300,
+    "feesMax": 165000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 10.4,
+      "highestPackage": 22.9,
+      "placementRate": 91,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 165000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 151800,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 1200,
+        "maxRank": 2400,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Kasturba Medical College Manipal",
+    "slug": "kasturba-medical-college-manipal",
+    "city": "Manipal",
+    "state": "Karnataka",
+    "type": "MEDICAL",
+    "ownership": "PRIVATE",
+    "overview": "Kasturba Medical College Manipal is a private medical institution in Manipal, Karnataka. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 857,
+    "feesMin": 2488700,
+    "feesMax": 3035000,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 10.2,
+      "highestPackage": 22.5,
+      "placementRate": 91,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 3035000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 2792200,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 1260,
+        "maxRank": 2460,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "St Johns Medical College",
+    "slug": "st-johns-medical-college",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "MEDICAL",
+    "ownership": "PRIVATE",
+    "overview": "St Johns Medical College is a private medical institution in Bangalore, Karnataka. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 894,
+    "feesMin": 2599400,
+    "feesMax": 3170000,
+    "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 10,
+      "highestPackage": 22.1,
+      "placementRate": 91,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 3170000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 2916400,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 1320,
+        "maxRank": 2520,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Seth GS Medical College",
+    "slug": "seth-gs-medical-college",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "Seth GS Medical College is a public medical institution in Mumbai, Maharashtra. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 931,
+    "feesMin": 154980,
+    "feesMax": 189000,
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 9.9,
+      "highestPackage": 21.7,
+      "placementRate": 90,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 189000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 173880,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 1380,
+        "maxRank": 2580,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Grant Medical College",
+    "slug": "grant-medical-college",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "Grant Medical College is a public medical institution in Mumbai, Maharashtra. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.6,
+    "reviewCount": 968,
+    "feesMin": 161540,
+    "feesMax": 197000,
+    "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 9.7,
+      "highestPackage": 21.3,
+      "placementRate": 90,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 197000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 181240,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.6,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 1440,
+        "maxRank": 2640,
+        "category": "General"
+      }
+    ]
+  },
+  {
+    "name": "Osmania Medical College",
+    "slug": "osmania-medical-college",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "MEDICAL",
+    "ownership": "PUBLIC",
+    "overview": "Osmania Medical College is a public medical institution in Hyderabad, Telangana. This seed record is structured for discovery, comparison, and predictor workflows.",
+    "rating": 4.5,
+    "reviewCount": 1005,
+    "feesMin": 168100,
+    "feesMax": 205000,
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1200&auto=format&fit=crop",
+    "sourceUrl": "https://collegedunia.com/medical-colleges",
+    "placement": {
+      "averagePackage": 9.5,
+      "highestPackage": 20.9,
+      "placementRate": 90,
+      "topRecruiters": [
+        "Apollo",
+        "Fortis",
+        "AIIMS",
+        "Manipal Hospitals"
+      ]
+    },
+    "courses": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS",
+        "duration": "5.5 years",
+        "fees": 205000,
+        "seats": 150
+      },
+      {
+        "name": "Nursing",
+        "degree": "B.Sc",
+        "duration": "4 years",
+        "fees": 188600,
+        "seats": 105
+      }
+    ],
+    "reviews": [
+      {
+        "authorName": "Verified Student",
+        "rating": 4.5,
+        "title": "Useful academic and career exposure",
+        "body": "Students highlight academics, campus facilities, and career support as major decision factors."
+      }
+    ],
+    "cutoffs": [
+      {
+        "examCode": "NEET_UG",
+        "examName": "NEET UG",
+        "courseName": "Medicine and Surgery",
+        "minRank": 1500,
+        "maxRank": 2700,
+        "category": "General"
+      }
+    ]
+  }
+]
