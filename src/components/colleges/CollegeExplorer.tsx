@@ -12,7 +12,7 @@ import { LoadingState } from "@/components/ui/LoadingState";
 
 type ListingResponse = {
   data: College[];
-  meta: { total: number; page: number; limit: number; pageCount: number };
+  meta: { total: number; matchingTotal: number; page: number; limit: number; pageCount: number; maxPages: number };
 };
 
 const initialFilters = {
@@ -45,8 +45,8 @@ export function CollegeExplorer() {
       setSavedIds(new Set());
       return;
     }
-    fetchJson<{ data: College[] }>("/api/saved/colleges")
-      .then((response) => setSavedIds(new Set(response.data.map((college) => college.id))))
+    fetchJson<{ ids: string[] }>("/api/saved/colleges?idsOnly=true")
+      .then((response) => setSavedIds(new Set(response.ids)))
       .catch(() => setSavedIds(new Set()));
   }, [session?.user]);
 
@@ -183,7 +183,9 @@ export function CollegeExplorer() {
         <div className="min-w-0">
           <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
             <div>
-              <p className="text-sm font-medium text-ink/60">{result ? `${result.meta.total} colleges found` : "Searching colleges"}</p>
+              <p className="text-sm font-medium text-ink/60">
+                {result ? `Showing ${result.meta.total} of ${result.meta.matchingTotal} matching colleges` : "Searching colleges"}
+              </p>
               {selected.length > 0 && (
                 <div className="mt-2 flex flex-wrap gap-2">
                   {selected.map((college) => (

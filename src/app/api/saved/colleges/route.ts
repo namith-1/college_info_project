@@ -8,9 +8,20 @@ const savedCollegeSchema = z.object({
   collegeId: z.string().min(1)
 });
 
-export async function GET() {
+export async function GET(request: Request) {
   const session = await getServerSession(authOptions);
   if (!session?.user?.id) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+
+  const idsOnly = new URL(request.url).searchParams.get("idsOnly") === "true";
+
+  if (idsOnly) {
+    const savedIds = await prisma.savedCollege.findMany({
+      where: { userId: session.user.id },
+      select: { collegeId: true }
+    });
+
+    return NextResponse.json({ ids: savedIds.map((item) => item.collegeId) });
+  }
 
   const saved = await prisma.savedCollege.findMany({
     where: { userId: session.user.id },

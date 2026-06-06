@@ -3,6 +3,8 @@ import { Prisma } from "@prisma/client";
 import { prisma } from "@/lib/prisma";
 import { collegeSearchSchema } from "@/lib/validations";
 
+const MAX_DISCOVERY_PAGES = 2;
+
 function getOrderBy(sort: string): Prisma.CollegeOrderByWithRelationInput[] {
   if (sort === "rating") return [{ rating: "desc" }, { reviewCount: "desc" }];
   if (sort === "fees_asc") return [{ feesMin: "asc" }];
@@ -17,7 +19,8 @@ export async function GET(request: NextRequest) {
     return NextResponse.json({ error: parsed.error.flatten() }, { status: 400 });
   }
 
-  const { q, city, state, course, exam, minFees, maxFees, minRating, sort, page, limit } = parsed.data;
+  const { q, city, state, course, exam, minFees, maxFees, minRating, sort, limit } = parsed.data;
+  const page = Math.min(parsed.data.page, MAX_DISCOVERY_PAGES);
   const where: Prisma.CollegeWhereInput = {
     ...(q
       ? {
@@ -44,7 +47,7 @@ export async function GET(request: NextRequest) {
     ...(minRating ? { rating: { gte: minRating } } : {})
   };
 
-  const [total, colleges] = await prisma.$transaction([
+  const [matchingTotal, colleges] = await prisma.$transaction([
     prisma.college.count({ where }),
     prisma.college.findMany({
       where,
@@ -59,13 +62,18 @@ export async function GET(request: NextRequest) {
     })
   ]);
 
+  const accessibleTotal = Math.min(matchingTotal, limit * MAX_DISCOVERY_PAGES);
+  const pageCount = Math.max(1, Math.ceil(accessibleTotal / limit));
+
   return NextResponse.json({
     data: colleges,
     meta: {
-      total,
+      total: accessibleTotal,
+      matchingTotal,
       page,
       limit,
-      pageCount: Math.ceil(total / limit)
+      pageCount,
+      maxPages: MAX_DISCOVERY_PAGES
     }
   });
 }
