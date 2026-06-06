@@ -118,8 +118,7 @@ async function main() {
           imageUrl: college.imageUrl
         }
       })
-    ),
-    { timeout: 60000 }
+    )
   );
 
   const [createdColleges, exams] = await Promise.all([
@@ -176,14 +175,17 @@ async function main() {
     });
   });
 
-  await prisma.$transaction(
-    [
-      courseRows.length ? prisma.course.createMany({ data: courseRows }) : undefined,
-      reviewRows.length ? prisma.review.createMany({ data: reviewRows }) : undefined,
-      cutoffRows.length ? prisma.collegeExamCutoff.createMany({ data: cutoffRows }) : undefined
-    ].filter(Boolean),
-    { timeout: 60000 }
-  );
+  if (courseRows.length) {
+    await prisma.course.createMany({ data: courseRows });
+  }
+
+  if (reviewRows.length) {
+    await prisma.review.createMany({ data: reviewRows });
+  }
+
+  if (cutoffRows.length) {
+    await prisma.collegeExamCutoff.createMany({ data: cutoffRows });
+  }
 
   await prisma.$transaction(
     placementRows.map((placement) =>
@@ -197,8 +199,7 @@ async function main() {
         },
         create: placement
       })
-    ),
-    { timeout: 60000 }
+    )
   );
 
   console.log(`Imported ${colleges.length} colleges from ${filePath}`);
