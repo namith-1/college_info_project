@@ -5,6 +5,7 @@ import { BarChart3, Bookmark, IndianRupee, MapPin, Star } from "lucide-react";
 import { useSession } from "next-auth/react";
 import type { College } from "@/types";
 import { formatFees } from "@/lib/format";
+import { FallbackImage } from "@/components/ui/FallbackImage";
 
 export function CollegeCard({
   college,
@@ -25,7 +26,7 @@ export function CollegeCard({
     <article className="overflow-hidden rounded-lg border border-black/10 bg-white shadow-soft">
       <div className="grid gap-0 sm:grid-cols-[220px_1fr]">
         <Link href={`/colleges/${college.slug}`} className="block min-h-48 bg-ink/10">
-          <img className="h-full w-full object-cover" src={college.imageUrl} alt="" />
+          <FallbackImage className="h-full w-full object-cover" src={college.imageUrl} alt="" />
         </Link>
         <div className="flex min-w-0 flex-col p-5">
           <div className="flex flex-wrap items-start justify-between gap-3">

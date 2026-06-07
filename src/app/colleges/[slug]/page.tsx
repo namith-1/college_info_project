@@ -6,6 +6,7 @@ import { authOptions } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import { formatCurrency, formatFees } from "@/lib/format";
 import { SaveCollegeButton } from "@/components/saved/SaveCollegeButton";
+import { FallbackImage } from "@/components/ui/FallbackImage";
 
 export const dynamic = "force-dynamic";
 
@@ -47,7 +48,7 @@ export default async function CollegeDetailPage({ params }: { params: Promise<{ 
           <div className="mt-5 grid gap-6 lg:grid-cols-[1fr_360px]">
             <div>
               <div className="overflow-hidden rounded-lg">
-                <img src={college.imageUrl} alt="" className="h-72 w-full object-cover sm:h-96" />
+                <FallbackImage src={college.imageUrl} alt="" className="h-72 w-full object-cover sm:h-96" />
               </div>
               <div className="mt-6">
                 <p className="text-sm font-semibold uppercase tracking-wide text-coral">{college.ownership.toLowerCase()} {college.type.toLowerCase()}</p>
