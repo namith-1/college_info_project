@@ -12,7 +12,7 @@ import { LoadingState } from "@/components/ui/LoadingState";
 
 type ListingResponse = {
   data: College[];
-  meta: { total: number; matchingTotal: number; page: number; limit: number; pageCount: number; maxPages: number };
+  meta: { total: number; matchingTotal: number; page: number; limit: number; pageCount: number; pageWindow: number };
 };
 
 const initialFilters = {
@@ -184,7 +184,7 @@ export function CollegeExplorer() {
           <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
             <div>
               <p className="text-sm font-medium text-ink/60">
-                {result ? `Showing ${result.meta.total} of ${result.meta.matchingTotal} matching colleges` : "Searching colleges"}
+                {result ? `${result.meta.matchingTotal} matching colleges` : "Searching colleges"}
               </p>
               {selected.length > 0 && (
                 <div className="mt-2 flex flex-wrap gap-2">

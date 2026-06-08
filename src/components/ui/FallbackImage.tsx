@@ -3,7 +3,7 @@
 import { useState } from "react";
 
 export const COLLEGE_IMAGE_FALLBACK =
-  "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop";
+  "/images/college-fallback.svg";
 
 export function FallbackImage({
   src,

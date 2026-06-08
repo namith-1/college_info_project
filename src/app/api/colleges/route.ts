@@ -5,7 +5,7 @@ import { authOptions } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import { collegeSearchSchema } from "@/lib/validations";
 
-const MAX_DISCOVERY_PAGES = 2;
+const DISCOVERY_PAGE_WINDOW = 2;
 
 function getOrderBy(sort: string): Prisma.CollegeOrderByWithRelationInput[] {
   if (sort === "rating") return [{ rating: "desc" }, { reviewCount: "desc" }];
@@ -31,7 +31,7 @@ export async function GET(request: NextRequest) {
   }
 
   const { q, city, state, course, exam, minFees, maxFees, minRating, sort, limit } = parsed.data;
-  const page = Math.min(parsed.data.page, MAX_DISCOVERY_PAGES);
+  const page = parsed.data.page;
   const where: Prisma.CollegeWhereInput = {
     ...(q
       ? {
@@ -64,7 +64,8 @@ export async function GET(request: NextRequest) {
       ? await prisma.studentProfile.findUnique({ where: { userId: session.user.id } })
       : null;
 
-  const takeLimit = limit * MAX_DISCOVERY_PAGES;
+  const windowStartPage = Math.floor((page - 1) / DISCOVERY_PAGE_WINDOW) * DISCOVERY_PAGE_WINDOW + 1;
+  const takeLimit = limit * DISCOVERY_PAGE_WINDOW;
   const include = {
     placement: true,
     courses: { take: 3, orderBy: { fees: "asc" as const } },
@@ -76,14 +77,13 @@ export async function GET(request: NextRequest) {
     prisma.college.findMany({
       where,
       orderBy: getOrderBy(sort),
-      skip: sort === "relevance" ? 0 : (page - 1) * limit,
+      skip: sort === "relevance" ? (windowStartPage - 1) * limit : (page - 1) * limit,
       take: sort === "relevance" ? takeLimit : limit,
       include
     })
   ]);
 
-  const accessibleTotal = Math.min(matchingTotal, limit * MAX_DISCOVERY_PAGES);
-  const pageCount = Math.max(1, Math.ceil(accessibleTotal / limit));
+  const pageCount = Math.max(1, Math.ceil(matchingTotal / limit));
   const preferredType = getTypeFromInterest(profile?.interestArea);
   const preferredCourses = profile?.courseInterests.map((item) => item.toLowerCase()) ?? [];
   const preferredLocations = profile?.preferredLocations.map((item) => item.toLowerCase()) ?? [];
@@ -112,19 +112,19 @@ export async function GET(request: NextRequest) {
             };
           })
           .sort((a, b) => b.score - a.score)
-          .slice((page - 1) * limit, page * limit)
+          .slice((page - windowStartPage) * limit, (page - windowStartPage + 1) * limit)
           .map((item) => item.college)
       : rawColleges;
 
   return NextResponse.json({
     data: colleges,
     meta: {
-      total: accessibleTotal,
+      total: matchingTotal,
       matchingTotal,
       page,
       limit,
       pageCount,
-      maxPages: MAX_DISCOVERY_PAGES
+      pageWindow: DISCOVERY_PAGE_WINDOW
     }
   });
 }
